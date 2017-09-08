@@ -2,6 +2,9 @@
 
 EasyCook is a simple implement(only the first level) of Steam game Overcooked(http://store.steampowered.com/app/448510/Overcooked/), a co-op causal cooking game generally for two players. The purpose of writting this demo is to learning the basic use of Unity. 
 
+Installation
+* Open the project in Unity, demo scenes are included in the Assets/Scenes folder.
+
 Archived Features:
 * GameStart Scene and level 1
 * The whole routine of fetching, cutting and cooking food
