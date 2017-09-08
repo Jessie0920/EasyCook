@@ -4,6 +4,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/Arts/models/Materials/
+/Assets/Arts/models/Materials.meta
 
 # Visual Studio 2015 cache directory
 /.vs/
